@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ujjwalmishra21
 - 👀 I’m interested in Full Stack Development with NodeJS, React and Spring
-- 🌱 I’m currently learning Cloud Computing.
 - 💞️ I’m looking to collaborate on NodeJS, React and Spring projects
 - 📫 How to reach me ujjwalmishra21@gmail.com
 
